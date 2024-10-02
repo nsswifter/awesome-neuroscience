@@ -15,6 +15,7 @@
   - [Matlab](#matlab)
   - [C++](#c)
   - [JavaScript](#javascript)
+  - [R](#r)
 - [Resources](#resources)
   - [Ebooks](#ebooks)
   - [Blogs](#blogs)
